@@ -25,7 +25,7 @@ const Home = () => {
             <div className="col-md-3" key={index}>
               <div className="card-body border border-2 m-2">
                 <p className="text-center fw-bold p-2">
-                  {category.toUpperCase()}
+                  {/*  {category.toUpperCase()}*/}
                 </p>
               </div>
             </div>
